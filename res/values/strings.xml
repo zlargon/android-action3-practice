@@ -4,4 +4,14 @@
     <string name="app_name">Action3</string>
     <string name="hello_world">Hello world!</string>
 
+    <string-array name="day_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
 </resources>
